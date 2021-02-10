@@ -1,0 +1,6 @@
+.*
+!/.gitignore
+.Rproj.user
+target/
+logs/
+LUCENE_INDEX_FOLDER/
